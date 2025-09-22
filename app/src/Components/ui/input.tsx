@@ -1,1 +1,1 @@
-export * from '../../../BudgetPro/Components/ui/input';
+export { Input } from '../../../BudgetPro/Components/ui/input';

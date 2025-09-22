@@ -1,1 +1,1 @@
-export * from '../../../BudgetPro/Components/ui/progress';
+export { Progress } from '../../../BudgetPro/Components/ui/progress';

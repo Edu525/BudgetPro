@@ -1,1 +1,1 @@
-export * from '../../../BudgetPro/Components/ui/tabs';
+export { Tabs, TabsContent, TabsList, TabsTrigger } from '../../../BudgetPro/Components/ui/tabs';

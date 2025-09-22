@@ -1,1 +1,1 @@
-export * from '../../../BudgetPro/Components/ui/card';
+export { Card, CardContent, CardHeader, CardTitle } from '../../../BudgetPro/Components/ui/card';

@@ -39,7 +39,7 @@ import {
 	Rocket
 } from 'lucide-react';
 import { PieChart as RechartsPieChart, Cell, ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, LineChart, Line, Legend, Pie } from 'recharts';
-import logoDefinitiva from '../BudgetPro/assets/logo.png';
+import logoDefinitiva from './assets/logo.png';
 
 // ...demais tipos, estados, funções e JSX conforme BudgetPro/BudgetPro/App.tsx...
 

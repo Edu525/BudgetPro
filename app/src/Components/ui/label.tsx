@@ -1,1 +1,1 @@
-export * from '../../../BudgetPro/Components/ui/label';
+export { Label } from '../../../BudgetPro/Components/ui/label';
