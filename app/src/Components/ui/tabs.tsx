@@ -1,0 +1,1 @@
+export * from '../../../BudgetPro/Components/ui/tabs';
